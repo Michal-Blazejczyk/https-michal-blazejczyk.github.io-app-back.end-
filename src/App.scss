@@ -1,0 +1,12 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+}
+
+.content-wrapper {
+    margin-top: 60px;
+    height: calc(100vh - 60px);
+    display: flex;
+}
